@@ -1,0 +1,111 @@
+<layout width="1920" height="1080" font="fonts/BroncoPersonalUse.ttf" loadFontSize="36" fontColor="FFD700">
+
+    <!-- Sounds(Standard/Default RetroFE) -->
+    <sound type="load" src="sounds/load.wav" />
+    <sound type="unload" src="sounds/unload.wav" />
+    <sound type="highlight" src="sounds/highlight.wav" />
+    <sound type="select" src="sounds/select.wav" />
+
+<!-- Numero de juegos dentro de cada coleccion -->
+<reloadableText type="collectionIndexSize" x="1878" y="1068" xOrigin="center" yOrigin="center" fontSize="24" maxWidth="250" layer="15">
+        <onExit>                    <set duration=".1"><animate type="alpha"            to="0"/>  </set></onExit>
+        <onMenuEnter menuIndex="!0"><set duration=".1"><animate type="y"     from="-68" to="25"/> </set></onMenuEnter>
+        <onMenuExit  menuIndex="!0"><set duration=".1"><animate type="y"     from="25"  to="-68"/></set></onMenuExit>
+        <onGameEnter menuIndex="!0"><set duration=".1"><animate type="alpha"            to="0"/>  </set></oneGameEnter>
+        <onGameExit  menuIndex="!0"><set duration=".1"><animate type="alpha"            to="1"/>  </set></oneGameExit>
+</reloadableText>
+
+    <!-- System Info -->
+    <!-- System Logo Image  -->
+    <image src="images/logo.png" alpha="1"x="975" y="7" width="180" height="78" layer="16"/>
+    <!-- System Background Image  -->
+    <image src="images/SystemBackground.png" alpha="1" x="0" y="0" width="stretch" height="stretch" layer="2"/>
+    <!-- System InfoBar text    -->
+<reloadableText type="title" alpha="1" x="1109" y="1050" maxWidth="769" height="98" xOrigin="left" yOrigin="center" font="fonts/BroncoPersonalUse.ttf" fontSize="44" loadFontSize="44" fontColor="000000" layer="19">
+        <onEnter>
+            <set duration=".8">
+                <animate type="alpha" to="1" algorithm="easeinquadratic"/>
+            </set>
+        </onEnter>
+        <onExit>
+            <set duration=".25">
+                <animate type="alpha" to="0" algorithm="easeinquadratic"/>
+            </set>
+        </onExit>
+        <onMenuEnter menuIndex="0">
+            <set duration=".25">
+                <animate type="alpha" to="1" algorithm="easeinquadratic"/>
+            </set>
+        </onMenuEnter>
+        <onMenuExit menuIndex="0">
+            <set duration=".25">
+                <animate type="alpha" to="0" algorithm="easeinquadratic"/>
+            </set>
+        </onMenuExit>
+        <onHighlightEnter menuIndex="0">
+            <set duration=".25">
+                <animate type="alpha" to="1" algorithm="easeinquadratic"/>
+            </set>
+        </onHighlightEnter>
+        <onHighlightExit menuIndex="0">
+            <set duration=".25">
+                <animate type="alpha" to="0" algorithm="easeinquadratic"/>
+            </set>
+        </onHighlightExit>
+    </reloadableText>
+
+    <!-- Video -->
+    <reloadableVideo imageType="screentitle" alpha="1" x="517" y="44" height="588" width="1020" layer="0"/>
+    
+    <!-- System logo Art -->
+    <reloadableImage type="logo" x="248" y="180" height="190" width="480" alpha="0" xOrigin="center" yOrigin="center" layer="8"> 
+        <onMenuEnter menuIndex="0">
+            <set duration="2">
+                <animate type="alpha" to="1" algorithm="easeinquadratic"/>
+            </set>
+        </onMenuEnter>
+         <onHighlightEnter menuIndex="0">
+            <set duration=".01">
+                <animate type="alpha" to="0" algorithm="easeinquadratic"/>
+            </set> 
+        </onHighlightEnter> 
+         <onIdle menuIndex="0">
+            <set duration="1.5">
+                <animate type="alpha" to="1" algorithm="easeinquadratic"/>
+            </set>
+        </onIdle> 
+        </reloadableImage>
+
+        <!-- System Media Art -->
+        <reloadableImage type="medium_front" x="1732" y="350" height="320" width="320" alpha="1" xOrigin="center" yOrigin="center" layer="15">  
+            <onIdle>
+            <set duration="1.8">
+                <animate type="angle" from="0" to="360" algorithm="linear"/>
+            </set>
+           </onIdle> 
+        </reloadableImage>
+
+ <!-- MENU DE LA COLECCION -->
+    <!-- MENU TIPO LOGO -->
+    <menu type="custom" imageType="artwork_front" scrollTime=".2" scrollAcceleration=".02" miScrollTime="0.1" orientation="horizontal" textFallback="true" x="0" width="center" y="1049">
+        <itemDefaults alpha="1" x="center" y="1049" width="360" maxHeight="390" xOrigin="center" yOrigin="bottom" layer="12" loadFontSize="50" fontSize="50" fontColor="ffffff"/>
+        <item xOffset="-1200" alpha="0.5"/>
+        <item xOffset="-900" alpha="1">
+        </item>
+        <item xOffset="-615" alpha="1">        
+        </item>
+        <item xOffset="-315" alpha="1">
+        </item>
+        <item xOffset="-20" alpha="1">
+        </item>
+        <item xOffset="300" yOffset="-33" selected="true" width="420" maxHeight="450" alpha="1" layer="13">       
+        </item>
+        <item xOffset="615" alpha="1">      
+        </item>
+        <item xOffset="900" alpha="1">      
+        </item>
+        <item xOffset="1200" alpha="0.5"/>
+    </menu>
+
+
+</layout>

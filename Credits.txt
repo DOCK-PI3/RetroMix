@@ -1,0 +1,51 @@
+                                                                                                                                                       
+                                                                                                                                                       
+RRRRRRRRRRRRRRRRR                                tttt                                                                        iiii                      
+R::::::::::::::::R                            ttt:::t                                                                       i::::i                     
+R::::::RRRRRR:::::R                           t:::::t                                                                        iiii                      
+RR:::::R     R:::::R                          t:::::t                                                                                                  
+  R::::R     R:::::R    eeeeeeeeeeee    ttttttt:::::ttttttt   rrrrr   rrrrrrrrr      ooooooooooo      mmmmmmm    mmmmmmm   iiiiiii xxxxxxx      xxxxxxx
+  R::::R     R:::::R  ee::::::::::::ee  t:::::::::::::::::t   r::::rrr:::::::::r   oo:::::::::::oo  mm:::::::m  m:::::::mm i:::::i  x:::::x    x:::::x 
+  R::::RRRRRR:::::R  e::::::eeeee:::::eet:::::::::::::::::t   r:::::::::::::::::r o:::::::::::::::om::::::::::mm::::::::::m i::::i   x:::::x  x:::::x  
+  R:::::::::::::RR  e::::::e     e:::::etttttt:::::::tttttt   rr::::::rrrrr::::::ro:::::ooooo:::::om::::::::::::::::::::::m i::::i    x:::::xx:::::x   
+  R::::RRRRRR:::::R e:::::::eeeee::::::e      t:::::t          r:::::r     r:::::ro::::o     o::::om:::::mmm::::::mmm:::::m i::::i     x::::::::::x    
+  R::::R     R:::::Re:::::::::::::::::e       t:::::t          r:::::r     rrrrrrro::::o     o::::om::::m   m::::m   m::::m i::::i      x::::::::x     
+  R::::R     R:::::Re::::::eeeeeeeeeee        t:::::t          r:::::r            o::::o     o::::om::::m   m::::m   m::::m i::::i      x::::::::x     
+  R::::R     R:::::Re:::::::e                 t:::::t    ttttttr:::::r            o::::o     o::::om::::m   m::::m   m::::m i::::i     x::::::::::x    
+RR:::::R     R:::::Re::::::::e                t::::::tttt:::::tr:::::r            o:::::ooooo:::::om::::m   m::::m   m::::mi::::::i   x:::::xx:::::x   
+R::::::R     R:::::R e::::::::eeeeeeee        tt::::::::::::::tr:::::r            o:::::::::::::::om::::m   m::::m   m::::mi::::::i  x:::::x  x:::::x  
+R::::::R     R:::::R  ee:::::::::::::e          tt:::::::::::ttr:::::r             oo:::::::::::oo m::::m   m::::m   m::::mi::::::i x:::::x    x:::::x 
+RRRRRRRR     RRRRRRR    eeeeeeeeeeeeee            ttttttttttt  rrrrrrr               ooooooooooo   mmmmmm   mmmmmm   mmmmmmiiiiiiiixxxxxxx      xxxxxxx
+                                                                                                                                                       
+                                                                                                                                                       
+                                                                                                                                                       
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+%#- Twoeka --> Create Gamelists Backgrounds: GameBoy ,GameBoy color ,GameGear ,MasterSystem ...
+
+%#- All the people who share their layouts on http://retrofe.nl/SMF/index.php?board=4.0
+
+%#- Images downloaded from Google images, filters, effects, cropping, editing and image enhancement by Mabedeep
+
+%#- Codes for the layout seen at http://www.retrofe.nl/wiki/doku.php?id=layouts and http://www.retrofe.nl/SMF editing by Mabedeep
+
+%#- Thanks to everyone who shares their work for free and selflessly. !!!
+
+
+
+
+       __         ___  ___  ___   ___        __                     ___        ___            ___             
+  .'|=|  |   .'|=|_.' `._|=|   |=|_.'   .'|=|  |   .'|=|`.     .'|=|_.'   .'|=|_.'       .'| |   |   .'|      
+.'  | |  | .'  |  ___      |   |      .'  | |  | .'  | |  `. .'  |  ___ .'  |  ___     .'  |\|   | .'  |      
+|   |=|.'  |   |=|_.'      |   |      |   |=|.'  |   | |   | |   |=|_.' |   |=|_.'     |   | |   | |   |      
+|   |  |`. |   |  ___      `.  |      |   |  |`. `.  | |  .' |   |      |   |  ___ .-. |   | |  .' |   |  ___ 
+|___|  |_| |___|=|_.'        `.|      |___|  |_|   `.|=|.'   |___|      |___|=|_.' `-' |___| |.'   |___|=|_.' 
+                                                                                                              
+
+                                                                               
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+
+

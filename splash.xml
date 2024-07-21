@@ -1,0 +1,9 @@
+<layout width="1920" height="1080" font="OpenSans.ttf" loadFontSize="32" fontColor="dedede">
+   
+   <video src="intro/intro.mp4" volume="88" height="1080" width="1920" alpha="1"/>   
+
+ </layout>
+
+
+
+
